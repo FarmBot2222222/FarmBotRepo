@@ -4,4 +4,4 @@ Credits:
 1. [Johan Sebastian](https://github.com/johansansebastian)
 2. Sairama Nikhilesh
 3. Pedro Mark
-4. Bhautik "Bhau Bhau" Shetty
+4. Bhautik Shetty
