@@ -3,5 +3,5 @@ This repo contains all the code used to make FarmBot (An automated farming bot m
 Credits:
 1. [Johan Sebastian](https://github.com/johansansebastian)
 2. Sairama Nikhilesh
-3. Pedro Mark
+3. Bedru Mark
 4. Bhautik Shetty
